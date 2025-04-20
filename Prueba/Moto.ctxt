@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Moto
+comment1.params=id\ bateria\ cilindrada
+comment1.target=Moto(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=id
+comment3.target=void\ setId(java.lang.String)
+comment4.params=
+comment4.target=double\ getBateria()
+comment5.params=bateria
+comment5.target=void\ setBateria(double)
+comment6.params=
+comment6.target=boolean\ isAveriado()
+comment7.params=averiado
+comment7.target=void\ setAveriado(boolean)
+comment8.params=
+comment8.target=int\ getCilindrada()
+comment9.params=cilindrada
+comment9.target=void\ setCilindrada(int)
+numComments=10

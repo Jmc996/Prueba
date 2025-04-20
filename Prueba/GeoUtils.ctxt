@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GeoUtils
+comment1.params=radioKm
+comment1.target=double[]\ generarCoordenadasZaragoza(double)
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Administrador
+comment1.params=nombre\ dni\ email
+comment1.target=Administrador(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDni()
+comment6.params=dni
+comment6.target=void\ setDni(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getEmail()
+comment8.params=email
+comment8.target=void\ setEmail(java.lang.String)
+numComments=9

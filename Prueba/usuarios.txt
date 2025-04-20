@@ -1,0 +1,4 @@
+Juan;11111;juan@gmail.com;945.4038464781738;Estándar
+Valen;22222;valen@gmail.com;2000.0;Premium
+Pepe;9999;pepe@gmail.com;33316.98701644665;Estándar
+Luis;9898;99;999.0;Estándar
